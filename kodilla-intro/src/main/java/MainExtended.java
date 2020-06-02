@@ -7,5 +7,11 @@ public class MainExtended {
         double howTallIAm = 1.95;
         String tellMeWhoYouAre = "I am a new member of kodilla course";
         System.out.println(tellMeWhoYouAre);
+        System.out.println("Hello from FirstClass!");
+
+        if (1 > 2){
+            System.out.println("Niesamowite! Jeden jest większe niż dwa!!!");
+        }
     }
 }
+
