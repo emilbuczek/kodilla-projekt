@@ -1,6 +1,6 @@
 public class Book {
     private String author() {
-        String author = "Rick Strassman";
+        String author = "Strassman";
         return author;
     }
 
